@@ -1,0 +1,20 @@
+# 📘 Lesson 1: Getting Started with IoT
+
+## 🎯 Tujuan
+Mempelajari dasar IoT, konsep device & data sensing.
+
+## ⚙️ Langkah
+1. Menyiapkan Python & VS Code
+2. Menjalankan kode simulasi
+3. Mengamati hasil di terminal
+
+## 🧠 Pembelajaran
+- Cara kerja komunikasi IoT
+- Dasar sensor input/output
+
+## 📷 Dokumentasi
+(Tambahkan gambar hasil di sini)
+
+## 📝 Catatan
+- Error: port belum terdeteksi
+- Solusi: install driver board ESP32
